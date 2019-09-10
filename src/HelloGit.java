@@ -5,4 +5,7 @@ public class HelloGit {
     public void te(){
         System.out.println("hello 2");
     }
+    public  void test(){
+        System.out.println("hello github");
+    }
 }
